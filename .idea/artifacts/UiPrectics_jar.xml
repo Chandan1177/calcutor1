@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UiPrectics:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UiPrectics_jar</output-path>
+    <root id="archive" name="UiPrectics.jar">
+      <element id="module-output" name="UiPrectics" />
+    </root>
+  </artifact>
+</component>
